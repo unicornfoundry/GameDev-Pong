@@ -1,7 +1,7 @@
 # Game Development Project #1 - Pong
 The first project for game development Unicorn Foundry students.
 
-If you are interested in learning to program games like this, visit http://unicornfoundry.com for private instruction sessions.
+If you are interested in learning to program games like this, visit http://unicornfoundry.com/#tutor for private instruction sessions.
 
 # License
 Copyright (c) 2016 Unicorn Foundry
